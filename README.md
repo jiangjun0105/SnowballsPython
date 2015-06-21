@@ -16,7 +16,7 @@ After finishing this material you will be able to:
 
 
 The four Example program are:
- 1. Hello World!
- 2. What time is it?
- 3. Is it a prime number?
- 4. Who are you?
+ 1. Hello World! -- helloworld.py
+ 2. What time is it? -- clock.py
+ 3. Is it a prime number? -- prime.py
+ 4. Who are you? -- profile.py
